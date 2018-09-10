@@ -1,0 +1,2 @@
+这是一个测试buffer的文件
+展示了读写模式对position,limit和capacity的影响
